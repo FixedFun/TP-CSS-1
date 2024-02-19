@@ -1,0 +1,11 @@
+div {
+    color: blue;
+}
+
+div.class {
+    color: red;
+}
+
+div#id {
+    color: green;
+}

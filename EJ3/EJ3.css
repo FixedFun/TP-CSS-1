@@ -1,0 +1,6 @@
+div#imagen, img {
+width: 10%;
+position: fixed;
+right: 0;
+margin-right: auto;
+}

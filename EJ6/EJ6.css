@@ -1,0 +1,69 @@
+div.bottom {
+    background-color: gray;
+}
+
+ul {
+    padding: 10px;
+}
+
+li {
+    text-align: start;
+}
+
+li.left {
+    float: left;
+}
+
+hr {
+    background-color: #68B4DC;
+    border-color: #68B4DC;
+    border-width: 0.1px;
+    width: 180px;
+    height: 0.5px;
+    border-style: solid;
+    border-radius: 1px;
+    margin: 0.1px;
+}
+
+th.title {
+    color: #68B4DC;
+    text-align: left;
+    vertical-align:middle;
+}
+
+img.icon {
+    max-width: 25px;
+    height: 25px;
+    width: 25px;
+    vertical-align: middle;
+}
+
+img.app {
+    max-width: 100px;
+    size: 10px;
+    padding-top: 5px;
+}
+
+tr {
+    vertical-align: top;
+}
+
+table {
+    margin: 10px;
+    padding-top: 4px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    background-color: lightgray;
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: darkslategray;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

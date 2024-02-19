@@ -1,0 +1,15 @@
+ul.blanco {
+    a {
+        color: yellow;
+    }
+}
+
+ul.tinto {
+    a {
+        color: red;
+    }
+
+    a.verde {
+        color: green;
+    }
+}
